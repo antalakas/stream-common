@@ -1,4 +1,4 @@
-module stream-common
+module github.com/antalakas/stream-common
 
 require (
 	github.com/DataDog/zstd v1.3.5 // indirect
